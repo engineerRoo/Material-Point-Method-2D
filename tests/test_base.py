@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from material_point_method_2d.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "material_point_method_2d"

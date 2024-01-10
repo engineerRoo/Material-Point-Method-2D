@@ -1,7 +1,7 @@
 """
-project_name base module.
+material_point_method_2d base module.
 
-This is the principal module of the project_name project.
+This is the principal module of the material_point_method_2d project.
 here you put your main classes and objects.
 
 Be creative! do whatever you want!
@@ -14,4 +14,4 @@ and then choose `flask` as template.
 """
 
 # example constant variable
-NAME = "project_name"
+NAME = "material_point_method_2d"
